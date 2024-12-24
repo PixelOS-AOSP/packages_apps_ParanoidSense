@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paranoid Sense</string>
+
+    <!-- Enroll activity -->
+    <string name="face_enroll_title">Centra tu rostro en la cámara</string>
+    <string name="face_enroll_description">Quédate quieto y asegúrate de estar en un entorno bien iluminado</string>
+
+    <!-- Try Again activity -->
+    <string name="face_try_again_title">No se pudo capturar tu rostro</string>
+    <string name="face_try_again_description">Pulsa abajo para volver a intentarlo. La próxima vez, asegúrate de que estás en un entorno bien iluminado y de que nada te tape el rostro.</string>
+    <string name="btn_try_again">Inténtalo de nuevo</string>
+
+    <!-- Vendor Messages -->
+    <string name="attr_light_dark">El rostro necesita más luz</string>
+    <string name="attr_light_high">El rostro tiene demasiada luz</string>
+    <string name="attr_light_shadow">El rostro tiene demasiadas sombras</string>
+    <string name="unlock_failed_face_blur">El rostro está demasiado borroso</string>
+    <string name="unlock_failed_face_large">El rostro está demasiado cerca</string>
+    <string name="unlock_failed_face_multi">Demasiados rostros detectados</string>
+    <string name="unlock_failed_face_not_complete">Sólo se detecta una parte del rostro</string>
+    <string name="unlock_failed_face_small">El rostro está demasiado lejos</string>
+</resources>
